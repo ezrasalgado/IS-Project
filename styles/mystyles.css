@@ -1,0 +1,75 @@
+
+.index_title {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+
+.picture {
+    width: 33vw;
+    float: left;
+}
+
+.pics {
+    padding: 20px;
+}
+
+.sano {
+    padding-bottom: 20px;
+}
+
+.fin {
+    padding-bottom: 20px;
+}
+
+.container {
+    margin: auto;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+main {
+    padding-left: 11vw;
+  
+}
+
+.AboutTitle {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.surfers {
+    width: 20vw;;
+}
+
+.surfweb {
+    font-style: italic;
+    color: navy;
+    font-weight: 400;
+}
+
+.email {
+    text-decoration: underline;
+}
+
+.subheading {
+    font-style: italic !important;
+}
+
+.video {
+    padding-bottom: 15px;
+}
+
+.posttitle {
+    color: purple;
+    font-weight: 800;
+}
+
+.btn {
+    background-color: navy !important;
+}
+
+.p_desc {
+    font-style: italic;
+    font-weight: 300;
+}
